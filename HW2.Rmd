@@ -299,7 +299,7 @@ $$
 $$
 _where $\bar{~}$ represents the mean. This formula could be easily found in any regression textbook._
 
-_By substituting $x$ and $y$ with $X_i - \hat{X}_i$ and $Y - \hat{Y}_i$, we have the intercept estimator in added variable plot as_
+_By substituting $x$ and $y$ with $X_i - \hat{X}_i$ and $Y - \hat{Y}$, we have the intercept estimator in added variable plot as_
 $$
 \hat{\beta}_0
 =
